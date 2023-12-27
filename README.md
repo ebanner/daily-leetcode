@@ -1,3 +1,3 @@
-# daily-leetcode
+# 💻 daily-leetcode
 
 https://leetcode.com/
