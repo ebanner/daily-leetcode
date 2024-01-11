@@ -1,6 +1,6 @@
 # 💻 daily-leetcode
 
-Attempts at the daily leetcode problem
+Attempts at the daily posted leetcode problem
 
 ## Where to Find
 
