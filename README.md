@@ -2,7 +2,7 @@
 
 Attempts at the daily posted leetcode problem
 
-## Where to Find
+## Where?
 
 Leetcode posts a daily problem marked by the little calendar icon 📅
 
