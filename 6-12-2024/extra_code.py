@@ -3,7 +3,11 @@ def advance():
         one_idx += 1
 
 
+<<<<<<< HEAD
 def alternate_algo():
+=======
+def sortColors(nums: List[int]) -> None:
+>>>>>>> fa245e0 (Add extra code for 6-12-2024)
     cut_points = get_cut_points(nums)
     one_idx, two_idx = get_pointers(cut_points)
     
